@@ -40,3 +40,17 @@ ETL-ENERSA/
 └── README.md                # Documento principal de presentación del proyecto
 ```
 </details>
+
+---
+
+## ✍️ Autores
+
+- **Adriel Starchevich**  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriel-starchevich)
+
+- **Joaquin Frattin**  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquinfrattin/)
+
+📍 Paraná, Entre Ríos – Argentina
+
+---
